@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-03T15:18:58 IST" name="Default suite" finished-at="2024-12-03T15:19:09 IST" duration-ms="11048">
+  <suite started-at="2024-12-04T15:10:48 IST" name="Default suite" finished-at="2024-12-04T15:11:04 IST" duration-ms="16290">
     <groups>
     </groups>
-    <test started-at="2024-12-03T15:18:58 IST" name="Default test" finished-at="2024-12-03T15:19:09 IST" duration-ms="11048">
-      <class name="com.jenkinsss.jen.testclass1">
-        <test-method is-config="true" signature="launchdriver()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:18:58 IST" name="launchdriver" finished-at="2024-12-03T15:19:01 IST" duration-ms="3370" status="PASS">
+    <test started-at="2024-12-04T15:10:48 IST" name="Default test" finished-at="2024-12-04T15:11:04 IST" duration-ms="16290">
+      <class name="com.jenkinsss.jen.testclass1_Test">
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:10:48 IST" name="launchdriver" finished-at="2024-12-04T15:10:52 IST" duration-ms="4068" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchdriver -->
-        <test-method signature="Test1()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:01 IST" name="Test1" finished-at="2024-12-03T15:19:03 IST" duration-ms="1601" status="PASS">
+        <test-method signature="Test1()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:10:52 IST" name="Test1" finished-at="2024-12-04T15:10:55 IST" duration-ms="2431" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:03 IST" name="quit" finished-at="2024-12-03T15:19:03 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:10:55 IST" name="quit" finished-at="2024-12-04T15:10:55 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method is-config="true" signature="launchdriver()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:03 IST" name="launchdriver" finished-at="2024-12-03T15:19:04 IST" duration-ms="1208" status="PASS">
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:10:55 IST" name="launchdriver" finished-at="2024-12-04T15:10:57 IST" duration-ms="2571" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchdriver -->
-        <test-method signature="Test2()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:04 IST" name="Test2" finished-at="2024-12-03T15:19:05 IST" duration-ms="1594" status="PASS">
+        <test-method signature="Test2()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:10:57 IST" name="Test2" finished-at="2024-12-04T15:11:00 IST" duration-ms="2508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:05 IST" name="quit" finished-at="2024-12-03T15:19:05 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:11:00 IST" name="quit" finished-at="2024-12-04T15:11:00 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method is-config="true" signature="launchdriver()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:05 IST" name="launchdriver" finished-at="2024-12-03T15:19:07 IST" duration-ms="1556" status="PASS">
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:11:00 IST" name="launchdriver" finished-at="2024-12-04T15:11:02 IST" duration-ms="2283" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchdriver -->
-        <test-method signature="Test3()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:07 IST" name="Test3" finished-at="2024-12-03T15:19:09 IST" duration-ms="1644" status="PASS">
+        <test-method signature="Test3()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:11:02 IST" name="Test3" finished-at="2024-12-04T15:11:04 IST" duration-ms="2287" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test3 -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.jenkinsss.jen.testclass1@5552768b]" started-at="2024-12-03T15:19:09 IST" name="quit" finished-at="2024-12-03T15:19:09 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.jenkinsss.jen.testclass1_Test@5552768b]" started-at="2024-12-04T15:11:04 IST" name="quit" finished-at="2024-12-04T15:11:04 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-      </class> <!-- com.jenkinsss.jen.testclass1 -->
+      </class> <!-- com.jenkinsss.jen.testclass1_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

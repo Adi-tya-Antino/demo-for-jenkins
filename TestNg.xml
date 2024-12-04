@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.jenkinsss.jen.testclass1"/>
+      <class name="com.jenkinsss.jen.TestClass1_Test"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test>
+</suite>
